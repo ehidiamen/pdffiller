@@ -20,6 +20,6 @@ Response is a PDF file with the relevant fields filled.
 
 Postman is a useful tool for making this request.
 
-JSON API documentation
+The JSON API documentation can be found in the API documentation file at the root of the project.
 
   
